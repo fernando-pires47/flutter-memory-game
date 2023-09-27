@@ -1,10 +1,6 @@
 # Flutter NBA Memory Game
 Using Flutter Components, to create Memory Game.
 
-#### Necessary to run 
-* Dart
-* Flutter
-
 #### Run App
 * flutter start
 
